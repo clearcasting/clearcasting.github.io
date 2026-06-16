@@ -1,0 +1,1 @@
+This section introduces some beginner challenges with the goal of reverse engineering the flag.
