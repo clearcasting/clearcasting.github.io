@@ -3,4 +3,7 @@ authors = ["clearcasting"]
 language = "en"
 multilingual = false
 src = "src"
-title = "My Security Writeups"
+title = "Security Writeups"
+
+[output.html]
+no-section-label = true
