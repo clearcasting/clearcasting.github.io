@@ -2,6 +2,9 @@
 
 - [Home](README.md)
 
+- [Malware-Traffic-Analysis](Malware-Traffic-Analysis/README.md)
+  - [1. NetSupport Manager RAT (Easy As 123)](Malware-Traffic-Analysis/easy-as-123/README.md)
+
 - [Nightmare](Nightmare/README.md)
   - [1. Beginner Reversing](Nightmare/introduction/README.md)
     - [1.1. Pico'18: Strings](Nightmare/introduction/pico18_strings.md)
