@@ -5,6 +5,8 @@
 - [Blue Team Labs Online](Blue-Team-Labs-Online/README.md)
   - [Security Operations](Blue-Team-Labs-Online/Security-Operations/README.md)
     - [Network Analysis - Web Shell](Blue-Team-Labs-Online/Security-Operations/Network-Analysis-Web-Shell/README.md)
+  - [Reverse Engineering](Blue-Team-Labs-Online/Reverse-Engineering/README.md)
+    - [A Classic Injection](Blue-Team-Labs-Online/Reverse-Engineering/A-Classic-Injection/README.md)
 
 - [Malware-Traffic-Analysis](Malware-Traffic-Analysis/README.md)
   - [1. NetSupport Manager RAT (Easy As 123)](Malware-Traffic-Analysis/easy-as-123/README.md)
